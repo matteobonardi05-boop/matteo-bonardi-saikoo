@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" shape-rendering="crispEdges">
+  <!-- Background -->
+  <rect width="15" height="15" fill="#161b22"/>
+
+  <!-- Capello riccio corto (texture riccia a 2 toni castani) -->
+  <rect x="4" y="0" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="5" y="0" width="1" height="1" fill="#4e3829"/>
+  <rect x="6" y="0" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="8" y="0" width="1" height="1" fill="#4e3829"/>
+  <rect x="9" y="0" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="10" y="0" width="1" height="1" fill="#4e3829"/>
+
+  <rect x="3" y="1" width="1" height="1" fill="#4e3829"/>
+  <rect x="4" y="1" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="5" y="1" width="1" height="1" fill="#2c1f16"/>
+  <rect x="6" y="1" width="1" height="1" fill="#4e3829"/>
+  <rect x="7" y="1" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="8" y="1" width="1" height="1" fill="#2c1f16"/>
+  <rect x="9" y="1" width="1" height="1" fill="#4e3829"/>
+  <rect x="10" y="1" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="11" y="1" width="1" height="1" fill="#4e3829"/>
+
+  <rect x="3" y="2" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="4" y="2" width="1" height="1" fill="#4e3829"/>
+  <rect x="5" y="2" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="6" y="2" width="1" height="1" fill="#2c1f16"/>
+  <rect x="7" y="2" width="1" height="1" fill="#4e3829"/>
+  <rect x="8" y="2" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="9" y="2" width="1" height="1" fill="#2c1f16"/>
+  <rect x="10" y="2" width="1" height="1" fill="#4e3829"/>
+  <rect x="11" y="2" width="1" height="1" fill="#3a2a1e"/>
+
+  <!-- Fronte con riccioli corti sulla fronte -->
+  <rect x="3" y="3" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="4" y="3" width="1" height="1" fill="#e0ac84"/>
+  <rect x="5" y="3" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="6" y="3" width="1" height="1" fill="#e0ac84"/>
+  <rect x="7" y="3" width="1" height="1" fill="#e0ac84"/>
+  <rect x="8" y="3" width="1" height="1" fill="#3a2a1e"/>
+  <rect x="9" y="3" width="1" height="1" fill="#e0ac84"/>
+  <rect x="10" y="3" width="1" height="1" fill="#e0ac84"/>
+  <rect x="11" y="3" width="1" height="1" fill="#3a2a1e"/>
+
+  <!-- Viso e Occhi Azzurri (Senza occhiali, carnagione #e0ac84) -->
+  <rect x="3" y="4" width="1" height="1" fill="#e0ac84"/>
+  <rect x="4" y="4" width="1" height="1" fill="#e0ac84"/>
+  <rect x="5" y="4" width="1" height="1" fill="#38bdf8"/>
+  <rect x="6" y="4" width="1" height="1" fill="#e0ac84"/>
+  <rect x="7" y="4" width="1" height="1" fill="#e0ac84"/>
+  <rect x="8" y="4" width="1" height="1" fill="#e0ac84"/>
+  <rect x="9" y="4" width="1" height="1" fill="#38bdf8"/>
+  <rect x="10" y="4" width="1" height="1" fill="#e0ac84"/>
+  <rect x="11" y="4" width="1" height="1" fill="#e0ac84"/>
+
+  <rect x="3" y="5" width="9" height="1" fill="#e0ac84"/>
+  <rect x="4" y="6" width="7" height="1" fill="#e0ac84"/>
+  <!-- Accenno sorriso caldo -->
+  <rect x="6" y="6" width="3" height="1" fill="#c9936b"/>
+  <!-- Collo -->
+  <rect x="5" y="7" width="5" height="1" fill="#e0ac84"/>
+
+  <!-- Braccia (carnagione #e0ac84) -->
+  <rect x="1" y="9" width="1" height="6" fill="#e0ac84"/>
+  <rect x="13" y="9" width="1" height="6" fill="#e0ac84"/>
+
+  <!-- Maglietta Nera -->
+  <rect x="2" y="8" width="11" height="7" fill="#0b0c10"/>
+  <!-- Bordo spalle maglietta -->
+  <rect x="2" y="8" width="3" height="1" fill="#1f2430"/>
+  <rect x="10" y="8" width="3" height="1" fill="#1f2430"/>
+
+  <!-- Scritta bianca SAIKOO sul petto -->
+  <text x="7.5" y="12.2" fill="#ffffff" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="800" font-size="2.35" letter-spacing="0.15" text-anchor="middle" shape-rendering="geometricPrecision">saikoo</text>
+</svg>
